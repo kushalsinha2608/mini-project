@@ -46,11 +46,3 @@ if uploaded_file is not None:
                 st.progress(0.88)
                 st.write("**Model Confidence:** 88.4%")
                 st.info("💡 **Grad-CAM Attention Area:** Focus concentrated on the lower-right pulmonary region.")
-streamlit
-pydicom
-pillow
-numpy
-torch
-torchvision
-monai
-opencv-python-headless
